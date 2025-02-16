@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-SAAD-BIN-MAZHAR
 - 👀 I’m interested in PROGRAMMING and developer
-- 🌱 I’m currently learning OOPS IN JAVA AND CSS and i also have  experienced in HTML,C,JAVA AND C++.
+- 🌱 I’m currently learning CSS and i also have  experience in HTML,OOPS,C,JAVA AND C++.
 - 💞️ I’m looking to collaborate on DIFFERENT PROJECTS LIKE TO MAKE A CODE IN CPP,JAVA AND ALSO IN HTML.
 - 📫 How to reach me  
 INSTA ACCOUNT prince_saad55
