@@ -1,16 +1,1 @@
-- 👋 Hi, I’m @M-SAAD-BIN-MAZHAR
-- 👀 I’m interested in PROGRAMMING and developer
-- 🌱  i have a good experience in HTML,OOPS,C,JAVA AND C++.
-- 💞️ I’m looking to collaborate on DIFFERENT PROJECTS LIKE TO MAKE A CODE IN CPP,JAVA AND ALSO IN HTML.
-- 📫 How to reach me  
-INSTA ACCOUNT prince_saad55
-MY PROJECTS:-
- I recently completed a project in HTML, where I developed a portfolio page for myself, and I am currently working on a new project in HTML.
-In C++, I recently developed a voting machine and a Tic-Tac-Toe game, and I am interested in developing many more projects in C++ and JAVA.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @M-SAAD-BIN-MAZHAR, also known as Saadi. I’m passionate about programming and app development, with solid experience in C, C++, Java, and Python. I’m also an Android developer and the creator of Academix, a smart app that bundles multiple academic tools for students. My portfolio includes projects like a Typing Speed Tester, Tic Tac Toe, Voting Machines (in both C++ and Proteus), Rock Paper Scissors, Online Food Management System, Check Your Math's IQ, Guess the Number (in Java and Python), and a Console-Based To-Do List. I’m always eager to collaborate on innovative and impactful software projects, especially those involving Python, Java, C++, or Android development. I’m also passionate about learning Machine Learning and Artificial Intelligence, and excited to explore their real-world applications. You can reach out to me on Instagram at @prince_saad55.
