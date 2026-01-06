@@ -6,16 +6,11 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-SAAD-BIN-MAZHAR&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/M-SAAD-BIN-MAZHAR?label=Followers&style=social" alt="followers" />
-</p>
+
 
 ---
 
 ## 🌟 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 🎯 **AI/ML Engineer | Deep Learning | NLP | Generative AI**
 
@@ -101,6 +96,13 @@ Accomplished AI/ML Engineer with expertise in machine learning, deep learning, N
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧠 Generative AI & Agents
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-4ECDC4?style=for-the-badge&logo=openai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-45B7D1?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🌐 Web Development & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -110,6 +112,8 @@ Accomplished AI/ML Engineer with expertise in machine learning, deep learning, N
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Deployment & Cloud Platforms
@@ -164,16 +168,6 @@ Accomplished AI/ML Engineer with expertise in machine learning, deep learning, N
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-SAAD-BIN-MAZHAR&theme=tokyonight)
-
-</div>
-
----
-
-## 🏃‍♂️ Activity Graph
-
-<div align="center">
-  
-[![Muhammad Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-SAAD-BIN-MAZHAR&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
