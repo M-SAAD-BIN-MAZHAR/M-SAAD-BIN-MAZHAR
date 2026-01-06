@@ -15,7 +15,7 @@
 🎯 **AI/ML Engineer | Deep Learning | NLP | Generative AI**
 
 📍 **Location:** Lalazar, Rawalpindi  
-📞 **Phone:** 0309 8318300  
+📞 **Phone:** +92309 8318300  
 ✉️ **Email:** [msaadbinmazhar@gmail.com](mailto:msaadbinmazhar@gmail.com)  
 💼 **LinkedIn:** [m-saad-bin-mazhar](https://www.linkedin.com/in/m-saad-bin-mazhar/)  
 🐙 **GitHub:** [M-SAAD-BIN-MAZHAR](https://github.com/M-SAAD-BIN-MAZHAR)
