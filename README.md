@@ -212,12 +212,11 @@ Accomplished AI/ML Engineer with expertise in machine learning, deep learning, N
 ---
 
 <div align="center">
-  
-### 💫 "Turning Data into Intelligence, One Algorithm at a Time" 💫
 
-![Snake animation](https://github.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=M-SAAD-BIN-MAZHAR&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
