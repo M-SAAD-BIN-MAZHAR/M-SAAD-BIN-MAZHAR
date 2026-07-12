@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Muhammad%20Saad%20Bin%20Mazhar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20RAG%20Infrastructure&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Muhammad%20Saad%20Bin%20Mazhar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=17" width="100%" />
 
 <a href="https://github.com/M-SAAD-BIN-MAZHAR">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=800&lines=MIT+Hackathon+Winner+%F0%9F%8F%86;Creator+of+MS-RAGS+%E2%80%94+1%2C000%2B+users+in+5+days;RAG+Pipelines+%C2%B7+Multi-Agent+Systems+%C2%B7+Production+AI;Custom+MCP+Servers+%C2%B7+LLM+Tooling;Software+Engineering+%40+NUST+%7C+CGPA+3.59" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+Automation+Specialist;MIT+Hackathon+Winner+%F0%9F%8F%86;Creator+of+MS-RAGS+%E2%80%94+1%2C000%2B+users+in+5+days;RAG+Pipelines+%C2%B7+Multi-Agent+Systems+%C2%B7+Production+AI;End-to-End+Delivery%3A+Model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+Deploy" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=M-SAAD-BIN-MAZHAR&label=Profile%20Views&color=1F6FEB&style=flat-square" />
 <img src="https://img.shields.io/github/followers/M-SAAD-BIN-MAZHAR?label=Followers&style=flat-square&color=1F6FEB" />
-<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-2EA043?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20to-Work%20%26%20Freelance-2EA043?style=flat-square" />
 
 </div>
 
@@ -27,29 +27,55 @@
 
 ## 🧠 About Me
 
+**Three disciplines, one delivery pipeline.** I train the model, build the product around it, and automate the workflow it plugs into — so clients get a shipped system, not a proof of concept.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI/ML Engineer
+RAG pipelines, multi-agent systems, LLM fine-tuning (LoRA/QLoRA), NLP & computer vision. Creator of **MS-RAGS**, 2 fine-tuned HF models.
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Full-Stack Developer
+FastAPI · Node.js · React · Next.js · PostgreSQL. Multi-tenant SaaS, real-time SSE, RBAC, JWT auth — deployed on AWS, Railway & Vercel.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Automation Specialist
+n8n workflows, Celery + Redis pipelines, WhatsApp/Twilio bots, browser automation, CRM integrations. Cutting manual work by 80%+.
+
+</td>
+</tr>
+</table>
+
 ```python
 class SaadBinMazhar:
     def __init__(self):
-        self.role        = "AI/ML Engineer · Multi-Agent Systems · Full-Stack AI"
+        self.roles       = ["AI/ML Engineer", "Full-Stack Developer",
+                            "Automation Specialist"]
         self.education   = "B.E. Software Engineering @ NUST (3.59/4.00, Dean's List)"
-        self.experience  = "1.5+ years shipping production AI systems"
+        self.experience  = "1.5+ years shipping production systems"
         self.building    = "MS-RAGS — open-source production RAG framework"
         self.stack       = ["LangChain", "LangGraph", "CrewAI", "FastAPI",
-                            "MCP", "Docker", "AWS"]
+                            "React", "n8n", "Docker", "AWS"]
         self.philosophy  = "Ship production code, not notebook prototypes."
 
     def current_focus(self):
         return [
             "Scaling MS-RAGS into a managed RAG-as-a-Service platform",
             "Custom MCP servers and LLM tool integrations",
-            "Multi-agent orchestration for real-world business automation",
+            "End-to-end business automation for real clients",
         ]
 ```
 
 - 🏆 **MIT Hackathon Winner** — Web Agent API (6-agent browser SDK with real MCP integration)
 - 🚀 **Creator of [MS-RAGS](https://pypi.org/project/ms-rags-all-in-one/)** — 15 RAG architectures, 12 LLM providers, 12 vector DBs · **1,000+ users in 5 days, zero marketing**
-- 🤖 **Published**: 2 fine-tuned HuggingFace models · 2 open-source packages (PyPI + npm) · 91+ repos
-- 💼 Building production AI for clients across **healthcare, travel, pharma distribution, and SaaS**
+- 📦 **Published**: 2 fine-tuned HuggingFace models · 2 open-source packages (PyPI + npm) · 91+ repos
+- 💼 Delivering production systems across **healthcare, travel, pharma distribution, and SaaS**
 
 ---
 
@@ -73,9 +99,26 @@ class SaadBinMazhar:
 <img src="https://img.shields.io/badge/LoRA%2FQLoRA-8957E5?style=flat-square" />
 <img src="https://img.shields.io/badge/RAGAS-2EA043?style=flat-square" />
 
-**Backend & Full-Stack**
+**Full-Stack — Backend & Frontend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,nestjs,react,nextjs,ts,js,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,nestjs,react,nextjs,ts,js,tailwind,cpp,java&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/SSE-F7DF1E?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
+
+**Automation & Integrations**
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
+<img src="https://img.shields.io/badge/Vapi-12A594?style=flat-square" />
+<img src="https://img.shields.io/badge/Webhooks-4A154B?style=flat-square" />
 
 **Data & Vector Databases**
 
@@ -89,12 +132,11 @@ class SaadBinMazhar:
 <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
 <img src="https://img.shields.io/badge/PGVector-336791?style=flat-square" />
 
-**MLOps, Cloud & Automation**
+**MLOps, Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,linux,git&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" />
@@ -114,7 +156,7 @@ class SaadBinMazhar:
 </a>
 </div>
 
-### 🧩 MS-RAGS (All-in-One) — Production RAG Framework
+### 🧩 MS-RAGS (All-in-One) — Production RAG Framework  `AI/ML`
 > `pip install ms-rags-all-in-one` · `docker pull saad469/ms-rags-all-in-one`
 
 A **permission-first, CLI-driven** framework that generates a **modular standalone production codebase** — not a black-box abstraction, not a notebook. Weeks of RAG setup compressed into **~4 minutes**.
@@ -128,29 +170,33 @@ A **permission-first, CLI-driven** framework that generates a **modular standalo
 | **Memory systems** | Short-term · long-term · semantic · episodic · user-profile |
 | **Traction** | 🔥 **1,000+ users within 5 days** of launch — zero marketing |
 
-### 🔌 github-repo-manager-mcp — Production MCP Server
+### 🔌 github-repo-manager-mcp — Production MCP Server  `AI/ML`
 > `npm i github-repo-manager-mcp`
 
 Model Context Protocol server that lets AI assistants manage GitHub repositories directly — **12+ operations, 100% test coverage, Claude Desktop compatible.**
 
-### 🏆 Web Agent API — *MIT Hackathon Winner*
+### 🏆 Web Agent API — *MIT Hackathon Winner*  `AI/ML` `Automation`
 Browser-level AI SDK with **real MCP integration** and a **6-agent orchestration system** (planning, navigation, extraction, execution, memory, voice) + Chrome Extension for DOM automation. **Sub-500ms latency.**
 
-### 🎓 Academix.io — AI Academic Automation
-`Next.js · FastAPI · CrewAI · PostgreSQL · Docker · Railway`
-Multi-agent platform that auto-generates lab reports, executes MATLAB, exports DOCX. **8–10 hours → 4 minutes.** 2,000+ MAU.
+### 🏢 Multi-Tenant SaaS Business Platform  `Full-Stack`
+`FastAPI · PostgreSQL · SQLAlchemy · React · Docker · AWS · SSE`
+Architected a multi-tenant platform with RBAC, real-time SSE inventory sync (<100ms), and an AI chatbot that cut manual data entry by 85%. **1,000+ daily transactions · 99.8% accuracy · 99.7% uptime.**
 
-### 🏢 Multi-Tenant SaaS Business Platform
-`FastAPI · PostgreSQL · React · Docker · AWS · SSE`
-RBAC, real-time SSE inventory sync (<100ms), AI chatbot (−85% manual entry). **1,000+ daily transactions · 99.8% accuracy · 99.7% uptime.**
+### ⚙️ Procurement Automation System  `Automation`
+`FastAPI · Celery · Redis · PostgreSQL · Twilio WhatsApp`
+End-to-end procurement pipeline: report ingestion → auto PO generation for **112 distributors** → human review portal → invoice matching → alert notifications. Replaced a fully manual workflow.
 
-### 🩺 Intelligent Healthcare Platform
-`React · FastAPI · TensorFlow · XGBoost · RAG · AWS`
-CNN pneumonia detection (**94.2%**), XGBoost risk assessment (**89.5% AUC**), RAG medical chatbot with citation-based confidence.
-
-### 📡 Job Radar — Intelligent Job Matching
+### 📡 Job Radar — Intelligent Job Matching  `Automation`
 `n8n · GPT-4 · Hunter.io · Apollo.io · HubSpot · FastAPI · React`
-7 orchestrated workflows · 96+ candidates/day · **99.5% reliability** · −82% manual screening · −67% API cost.
+**7 orchestrated n8n workflows** processing 96+ candidates daily at **99.5% reliability** · −82% manual screening · −67% API cost · quote-aware WhatsApp command routing.
+
+### 🎓 Academix.io — AI Academic Automation  `Full-Stack` `Automation`
+`Next.js · FastAPI · CrewAI · PostgreSQL · Docker · Railway`
+Multi-agent platform that auto-generates lab reports, executes MATLAB, and exports DOCX. **8–10 hours → 4 minutes.** 2,000+ monthly active users.
+
+### 🩺 Intelligent Healthcare Platform  `AI/ML` `Full-Stack`
+`React · FastAPI · TensorFlow · XGBoost · RAG · PostgreSQL · AWS`
+CNN pneumonia detection (**94.2%**), XGBoost risk assessment (**89.5% AUC**), RAG medical chatbot with citation-based confidence.
 
 ---
 
@@ -193,7 +239,8 @@ CNN pneumonia detection (**94.2%**), XGBoost risk assessment (**89.5% AUC**), RA
 - 🚀 **Creator of MS-RAGS** — 1,000+ users in 5 days, PyPI + Docker
 - 📦 **2 open-source packages** published (npm + PyPI) · **2 fine-tuned HF models** (+18% accuracy, −55% size via LoRA)
 - 🎓 **Dean's List** @ NUST · CGPA 3.59/4.00
-- 🏢 **Founder** of a production multi-tenant SaaS onboarding enterprise clients
+- 🏢 **Founder** of a production multi-tenant SaaS platform onboarding enterprise clients
+- ⚙️ Automated workflows serving **112+ distributors** and **2,000+ monthly users**
 - 📚 91+ public repositories across AI/ML, full-stack, and automation
 
 **Certifications:** Advanced RAG with Vector Databases (IBM) · ChatGPT Prompt Engineering for Developers (DeepLearning.AI) · Introduction to Generative AI (AWS) · Data Science & AI Advanced
@@ -202,7 +249,7 @@ CNN pneumonia detection (**94.2%**), XGBoost risk assessment (**89.5% AUC**), RA
 
 ## 🤝 Let's Build Something
 
-I'm open to **AI/ML engineering roles**, **consulting on LLM systems**, and **collaborations on open-source AI infrastructure**.
+Open to **AI/ML engineering roles**, **full-stack product development**, **automation consulting**, and **open-source collaboration**.
 
 <div align="center">
 
