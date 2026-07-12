@@ -1,407 +1,235 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  ANIMATED HEADER BANNER                     -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:0a0a2e,60:0d2137,100:001a0d&height=200&section=header&text=Muhammad%20Saad%20Bin%20Mazhar&fontSize=40&fontColor=00D9FF&animation=fadeIn&fontAlignY=50&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Agentic%20AI&descAlignY=70&descSize=18&descColor=C850C0&stroke=00D9FF&strokeWidth=2"/>
-</div>
-
-<!-- Typing SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=🤖+AI%2FML+Engineer+%7C+LLM+Architect;🧠+RAG+%26+Agentic+AI+Systems+Builder;⚡+NLP+%7C+Generative+AI+%7C+Full-Stack+APIs;🏆+MIT+Hackathon+Winner+%7C+NUST+Engineer;🚀+Turning+Data+into+Intelligence" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- Social / Badge Row -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=M-SAAD-BIN-MAZHAR&label=Profile+Views&color=00D9FF&style=for-the-badge&logo=github)](https://github.com/M-SAAD-BIN-MAZHAR)
-[![GitHub followers](https://img.shields.io/github/followers/M-SAAD-BIN-MAZHAR?label=Followers&style=for-the-badge&logo=github&color=C850C0&logoColor=white)](https://github.com/M-SAAD-BIN-MAZHAR?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-saad-bin-mazhar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msaadbinmazhar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-SAAD-BIN-MAZHAR)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Muhammad%20Saad%20Bin%20Mazhar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Infrastructure&descAlignY=55&descSize=18" width="100%" />
 
-</div>
+<a href="https://github.com/M-SAAD-BIN-MAZHAR">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=800&lines=MIT+Hackathon+Winner+%F0%9F%8F%86;Creator+of+MS-RAGS+%E2%80%94+1%2C000%2B+users+in+5+days;Agentic+Coding+with+Claude+Code+%2B+MCP;RAG+Pipelines+%C2%B7+Multi-Agent+Systems+%C2%B7+Production+AI;Software+Engineering+%40+NUST+%7C+CGPA+3.59" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-5617506e-89ad-4491-afde-d2aae62269f2.gif" width="100%">
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                       ABOUT ME                              -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" alt="fire"/>
-  &nbsp;About Me&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" alt="fire"/>
-</h2>
-
-<table align="center">
-<tr>
-<td width="52%" valign="top">
-
-```yaml
-Name     : Muhammad Saad Bin Mazhar
-Role     : AI/ML Engineer & Freelancer
-Location : Rawalpindi / Islamabad, Pakistan
-Study    : BE Software Engineering @ NUST
-Year     : 3rd Year (2024–2028)
-GitHub   : M-SAAD-BIN-MAZHAR
-Status   : Open to Freelance & Collaborations
-```
-
-<br/>
-
-🏆 **MIT Hackathon Winner** — Web Agent API  
-⚡ **1.5+ yrs** freelance AI/ML engineering  
-🔬 Building **production-grade** LLM systems  
-🌐 Expert in **RAG · Agents · LangGraph · FastAPI**  
-🧬 Deep experience: **LoRA/QLoRA fine-tuning**  
-🎯 Mission: Ship AI that actually works in prod
-
-</td>
-<td width="48%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="AI Coding Animation"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB ANALYTICS                         -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-87109f44-db88-46a0-b177-c4972e5250b9.gif" width="35"/>
-  &nbsp;GitHub Analytics
-</h2>
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=M-SAAD-BIN-MAZHAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=C850C0&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-SAAD-BIN-MAZHAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=10"/>
-
-</div>
-
-<div align="center">
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-SAAD-BIN-MAZHAR&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=C850C0&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9"/>
+<a href="https://www.linkedin.com/in/m-saad-bin-mazhar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://saad-s-portfolio-kappa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://huggingface.co/Saadi55"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+<a href="https://pypi.org/project/ms-rags-all-in-one/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+<a href="mailto:msaadbinmazhar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=M-SAAD-BIN-MAZHAR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+<img src="https://komarev.com/ghpvc/?username=M-SAAD-BIN-MAZHAR&label=Profile%20Views&color=1F6FEB&style=flat-square" />
+<img src="https://img.shields.io/github/followers/M-SAAD-BIN-MAZHAR?label=Followers&style=flat-square&color=1F6FEB" />
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-2EA043?style=flat-square" />
 
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
+---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  CONTRIBUTION ACTIVITY                      -->
-<!-- ████████████████████████████████████████████████████████████ -->
+## 🧠 About Me
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-74ca5a58-4a27-4871-abac-99684cca126c.gif" width="35"/>
-  &nbsp;Contribution Activity
-</h2>
+```python
+class SaadBinMazhar:
+    def __init__(self):
+        self.role        = "AI/ML Engineer · Agentic Systems · Full-Stack AI"
+        self.education   = "B.E. Software Engineering @ NUST (3.59/4.00, Dean's List)"
+        self.experience  = "1.5+ years shipping production AI systems"
+        self.building    = "MS-RAGS — open-source production RAG framework"
+        self.stack       = ["LangChain", "LangGraph", "CrewAI", "FastAPI",
+                            "Claude Code", "MCP", "Docker", "AWS"]
+        self.philosophy  = "Ship production code, not notebook prototypes."
+
+    def current_focus(self):
+        return [
+            "Scaling MS-RAGS into a managed RAG-as-a-Service platform",
+            "Agentic coding workflows with Claude Code + custom MCP servers",
+            "Multi-agent orchestration for real-world business automation",
+        ]
+```
+
+- 🏆 **MIT Hackathon Winner** — Web Agent API (6-agent browser SDK with real MCP integration)
+- 🚀 **Creator of [MS-RAGS](https://pypi.org/project/ms-rags-all-in-one/)** — 15 RAG architectures, 12 LLM providers, 12 vector DBs · **1,000+ users in 5 days, zero marketing**
+- 🤖 **Published**: 2 fine-tuned HuggingFace models · 2 open-source packages (PyPI + npm) · 91+ repos
+- 💼 Building production AI for clients across **healthcare, travel, pharma distribution, and SaaS**
+
+---
+
+## 🤖 Agentic Coding with Claude Code
+
+> I don't just *use* AI — I engineer the systems that let AI operate autonomously inside real codebases.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-SAAD-BIN-MAZHAR&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=C850C0&point=FF6B6B&area=true&area_color=00D9FF&custom_title=M.Saad%27s%20Contribution%20Graph&radius=10)](https://github.com/M-SAAD-BIN-MAZHAR)
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-8957E5?style=for-the-badge" />
 
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
+| Practice | How I Apply It |
+|---|---|
+| **Claude Code as a build partner** | Spec-driven, agent-executed development across multi-file repos — planning → implementation → test → refactor loops instead of one-off snippets. |
+| **Custom MCP servers** | Authored **[`github-repo-manager-mcp`](https://www.npmjs.com/package/github-repo-manager-mcp)** (npm) — 12+ GitHub operations, 100% test coverage, Claude Desktop compatible. |
+| **Tool-augmented agents** | Wired Claude/LLM agents to browsers, vector stores, CRMs, and internal APIs via MCP + function calling. |
+| **Agent orchestration** | LangGraph / CrewAI state machines with planner–executor–critic loops, memory, and guardrails. |
+| **Autonomous browser agents** | 6-agent Web Agent API (planning · navigation · extraction · execution · memory · voice) with sub-500ms latency. |
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                   CONTRIBUTION SNAKE                        -->
-<!-- ████████████████████████████████████████████████████████████ -->
+---
 
-<h2 align="center">🐍&nbsp;Contribution Snake</h2>
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
+**AI / ML / LLM**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square" />
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LoRA%2FQLoRA-8957E5?style=flat-square" />
+<img src="https://img.shields.io/badge/RAGAS-2EA043?style=flat-square" />
+
+**Backend & Full-Stack**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,nestjs,react,nextjs,ts,js,cpp,java&theme=dark" />
+
+**Data & Vector Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
+<img src="https://img.shields.io/badge/Weaviate-00C4B4?style=flat-square" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
+<img src="https://img.shields.io/badge/PGVector-336791?style=flat-square" />
+
+**MLOps, Cloud & Automation**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,linux,git&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" />
+
+</div>
+
+---
+
+## 🚀 Flagship Work
+
+<div align="center">
+<a href="https://github.com/M-SAAD-BIN-MAZHAR/ms-rags-all-in-one-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=ms-rags-all-in-one-&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" />
+</a>
+<a href="https://github.com/M-SAAD-BIN-MAZHAR/github-repo-manager-mcp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=github-repo-manager-mcp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" />
+</a>
+</div>
+
+### 🧩 MS-RAGS (All-in-One) — Production RAG Framework
+> `pip install ms-rags-all-in-one` · `docker pull saad469/ms-rags-all-in-one`
+
+A **permission-first, CLI-driven** framework that generates a **modular standalone production codebase** — not a black-box abstraction, not a notebook. Weeks of RAG setup compressed into **~4 minutes**.
+
+| | |
+|---|---|
+| **15+ RAG architectures** | Naive · Advanced · Modular · Agentic · Self-RAG · Corrective · Adaptive · GraphRAG · HyDE · Multi-Query · RAG-Fusion · Step-Back · Parent-Child · Contextual Compression |
+| **12+ vector databases** | FAISS · Chroma · Pinecone · Qdrant · Weaviate · Milvus · Redis · PGVector · Elasticsearch · OpenSearch · Azure AI Search · MongoDB Atlas |
+| **15+ LLM providers** | OpenAI · Anthropic · Gemini · Mistral · Groq · Cohere · HuggingFace · Ollama · Azure OpenAI · Bedrock · Together · Replicate · any OpenAI-compatible endpoint |
+| **Observability & eval** | RAGAS · DeepEval · LangSmith · Langfuse · Phoenix/OpenInference · OpenTelemetry |
+| **Agentic memory** | Short-term · long-term · semantic · episodic · user-profile |
+| **Traction** | 🔥 **1,000+ users within 5 days** of launch — zero marketing |
+
+### 🏆 Web Agent API — *MIT Hackathon Winner*
+Browser-level AI SDK with **real MCP integration** and a **6-agent orchestration system** (planning, navigation, extraction, execution, memory, voice) + Chrome Extension for DOM automation. **Sub-500ms latency.**
+
+### 🎓 Academix.io — AI Academic Automation
+`Next.js · FastAPI · CrewAI · PostgreSQL · Docker · Railway`
+Multi-agent platform that auto-generates lab reports, executes MATLAB, exports DOCX. **8–10 hours → 4 minutes.** 2,000+ MAU.
+
+### 🏢 Multi-Tenant SaaS Business Platform
+`FastAPI · PostgreSQL · React · Docker · AWS · SSE`
+RBAC, real-time SSE inventory sync (<100ms), agentic chatbot (−85% manual entry). **1,000+ daily transactions · 99.8% accuracy · 99.7% uptime.**
+
+### 🩺 Intelligent Healthcare Platform
+`React · FastAPI · TensorFlow · XGBoost · RAG · AWS`
+CNN pneumonia detection (**94.2%**), XGBoost risk assessment (**89.5% AUC**), RAG medical chatbot with citation-based confidence.
+
+### 📡 Job Radar — Intelligent Job Matching
+`n8n · GPT-4 · Hunter.io · Apollo.io · HubSpot · FastAPI · React`
+7 orchestrated workflows · 96+ candidates/day · **99.5% reliability** · −82% manual screening · −67% API cost.
+
+---
+
+## 📊 GitHub Analytics — Live
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-SAAD-BIN-MAZHAR&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-SAAD-BIN-MAZHAR&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=M-SAAD-BIN-MAZHAR&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=8957E5&currStreakLabel=1F6FEB" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-SAAD-BIN-MAZHAR&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=1F6FEB&point=8957E5&area=true&hide_border=true" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=M-SAAD-BIN-MAZHAR&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
-
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
+---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                   FEATURED PROJECTS                         -->
-<!-- ████████████████████████████████████████████████████████████ -->
+## 🏅 Achievements
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257412-738a2b04-e164-4242-8b1a-494172aa4f8d.gif" width="35"/>
-  &nbsp;Featured Projects
-</h2>
+- 🏆 **MIT Hackathon Winner (2026)** — Web Agent API with real MCP integration
+- 🚀 **Creator of MS-RAGS** — 1,000+ users in 5 days, PyPI + Docker
+- 📦 **2 open-source packages** published (npm + PyPI) · **2 fine-tuned HF models** (+18% accuracy, −55% size via LoRA)
+- 🎓 **Dean's List** @ NUST · CGPA 3.59/4.00
+- 🏢 **Founder** of a production multi-tenant SaaS onboarding enterprise clients
+- 📚 91+ public repositories across AI/ML, full-stack, and automation
+
+**Certifications:** Advanced RAG with Vector Databases (IBM) · ChatGPT Prompt Engineering for Developers (DeepLearning.AI) · Introduction to Generative AI (AWS) · Data Science & AI Advanced
+
+---
+
+## 🤝 Let's Build Something
+
+I'm open to **AI/ML engineering roles**, **agentic system consulting**, and **collaborations on open-source AI infrastructure**.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="22%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd1-b2ce-6fe7a9ef7374.gif" width="70"/><br/>
-  <b>🤖 AI Chatbots</b><br/>
-  <sub>Medical Bot · RAG QA · Code Analysis</sub>
-</td>
-<td align="center" width="22%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/><br/>
-  <b>📈 Predictive ML</b><br/>
-  <sub>Loan · Churn · Pricing · Grades</sub>
-</td>
-<td align="center" width="22%">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70"/><br/>
-  <b>👁️ Computer Vision</b><br/>
-  <sub>Traffic Sign · Healthcare CNN</sub>
-</td>
-<td align="center" width="22%">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70"/><br/>
-  <b>⚡ Agentic Systems</b><br/>
-  <sub>LangGraph · CrewAI · MCP SDK</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![AdvancedRAG](https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=AdvancedRAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=C850C0&text_color=c9d1d9)](https://github.com/M-SAAD-BIN-MAZHAR/AdvancedRAG)
-&nbsp;
-[![QA_RAG_APPLICATON](https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=QA_RAG_APPLICATON&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=C850C0&text_color=c9d1d9)](https://github.com/M-SAAD-BIN-MAZHAR/QA_RAG_APPLICATON)
-
-[![RAG-Anything](https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=RAG-Anything&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=C850C0&text_color=c9d1d9)](https://github.com/M-SAAD-BIN-MAZHAR/RAG-Anything)
-&nbsp;
-[![RepoReader](https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=RepoReader&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=C850C0&text_color=c9d1d9)](https://github.com/M-SAAD-BIN-MAZHAR/RepoReader)
-
-[![Intelligent_HPS](https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=Intelligent_HPS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=C850C0&text_color=c9d1d9)](https://github.com/M-SAAD-BIN-MAZHAR/Intelligent_HPS)
-&nbsp;
-[![Academix](https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=Academix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=C850C0&text_color=c9d1d9)](https://github.com/M-SAAD-BIN-MAZHAR/Academix)
-
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                      TECH STACK                             -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257798-64d45f05-9698-4b92-b276-5cc70edbc4c4.gif" width="35"/>
-  &nbsp;Tech Stack & Tools
-</h2>
-
-<div align="center">
-
-**Languages & Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,fastapi,flask,django,nodejs,react&perline=12)](https://skillicons.dev)
-
-**AI / ML & Data**
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium&perline=10)](https://skillicons.dev)
-
-**DevOps, Cloud & Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,postgres,mysql,redis,git,github,vscode,linux,bash&perline=10)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🧠 **Core AI/ML** | ⚡ **Agentic / GenAI** | 🔍 **RAG & Search** | 🌐 **Backend** | ☁️ **Cloud & DB** |
-|:---:|:---:|:---:|:---:|:---:|
-| TensorFlow · PyTorch | LangChain · LangGraph | Pinecone · FAISS | FastAPI · Flask | AWS · Railway |
-| Scikit-learn · XGBoost | CrewAI · AutoGen | ChromaDB · Qdrant | Django · Node.js | Docker · Redis |
-| OpenCV · NumPy | LoRA / QLoRA Fine-tuning | Hybrid Retrieval | Streamlit · Celery | PostgreSQL · MySQL |
-| Pandas · Matplotlib | MCP · Vapi · Twilio | Re-ranking · BM25 | REST · WebSockets | Git · Vercel · Render |
-
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                   ACHIEVEMENTS / METRICS                    -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h2 align="center">🏅&nbsp;Achievements & Highlights</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/216126366-2f4f80e6-f695-4c28-a27a-8c1560fb1af4.gif" width="60"/><br/>
-  <b>🏆 MIT Hackathon</b><br/>
-  <sub>Winner — Web Agent API<br/>Multi-agent browser SDK + MCP</sub>
-</td>
-<td align="center" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-ca3d-4c5b-9bce-68e4a0017af8.gif" width="60"/><br/>
-  <b>⚡ 1.5+ Years</b><br/>
-  <sub>Freelance AI/ML Engineering<br/>Production-grade systems</sub>
-</td>
-<td align="center" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/><br/>
-  <b>🤖 100+ Distributors</b><br/>
-  <sub>WhatsApp PO Automation<br/>Procurement AI @ CDH</sub>
-</td>
-<td align="center" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60"/><br/>
-  <b>🎓 NUST</b><br/>
-  <sub>BE Software Engineering<br/>3rd Year · 2024–2028</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                   EDUCATION & CERTS                         -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h2 align="center">🎓&nbsp;Education & Certifications</h2>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d2137,100:001a2e&height=80&text=NUST%20Islamabad%20%7C%20BE%20Software%20Engineering%20%7C%202024%E2%80%932028&fontSize=17&fontColor=00D9FF"/>
+<a href="mailto:msaadbinmazhar@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/m-saad-bin-mazhar"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://saad-s-portfolio-kappa.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
-![Pandas & NumPy](https://img.shields.io/badge/Pandas_%26_NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java OOP](https://img.shields.io/badge/Java_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Intro to AI](https://img.shields.io/badge/Intro_to_AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-C850C0?style=for-the-badge&logo=databricks&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-4158D0?style=for-the-badge&logo=anthropic&logoColor=white)
-![Advanced RAG](https://img.shields.io/badge/Advanced_RAG-00D9FF?style=for-the-badge&logo=pinecone&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+<i>"Ship production code, not notebook prototypes."</i>
 
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                     CURRENT FOCUS                           -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656950-c3b51b37-afdb-4c4d-93eb-83e38a8c9c51.gif" width="35"/>
-  &nbsp;Current Focus
-</h2>
-
-<div align="center">
-
-```yaml
-# M. Saad's Current Stack — 2025
-
-Currently Building:
-  - Procurement Automation (FastAPI + Celery + Redis + PostgreSQL)
-  - WhatsApp PO delivery via Twilio to 100+ distributors
-  - ERP Webhook Integration for Central Drug House (CDH)
-  - Multi-Agent Systems with LangGraph & MCP
-
-Deep Diving Into:
-  - Advanced RAG architectures (hybrid retrieval + re-ranking)
-  - LLM fine-tuning with LoRA / QLoRA
-  - Real-time AI Voice Agents (sub-1.5s latency)
-  - Agentic workflows with tool use & memory
-
-Ask Me About:
-  - LangChain / LangGraph / CrewAI / AutoGen
-  - FastAPI · PostgreSQL · Docker · AWS
-  - RAG Pipelines · Vector DBs · Embeddings
-  - LoRA Fine-tuning · Prompt Engineering
-
-Fun Fact:
-  - I love turning complex AI into practical, production-ready solutions
-```
-
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-4088-8772-3c7321420546.gif" width="100%">
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  CONNECT WITH ME                            -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122165-89083a0e-6c05-4b66-8b70-c5768fbafc59.gif" width="35"/>
-  &nbsp;Let's Connect
-</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-saad-bin-mazhar/)
-[![GitHub](https://img.shields.io/badge/GitHub-M--SAAD--BIN--MAZHAR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-SAAD-BIN-MAZHAR)
-[![Gmail](https://img.shields.io/badge/Email-msaadbinmazhar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msaadbinmazhar@gmail.com)
-
-<br/>
-
-> 💼 *Open to freelance AI/ML projects, research collaborations & open-source contributions*
-
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-5617506e-89ad-4491-afde-d2aae62269f2.gif" width="100%">
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                        FOOTER                               -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-24e483a4-7bd3-46e1-adc3-639089b5d25d.gif" width="55" alt="AI"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd1-b2ce-6fe7a9ef7374.gif" width="55" alt="Robot"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-ca3d-4c5b-9bce-68e4a0017af8.gif" width="55" alt="Space"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55" alt="Code"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="55" alt="Tech"/>
-
-<br/><br/>
-
-### ✨ *"Turning Data into Intelligence, One Algorithm at a Time"* ✨
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a0a2e,60:0d2137,100:001a0d&height=120&section=footer&fontSize=16&fontColor=00D9FF&animation=twinkling&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20my%20repos%20if%20you%20find%20them%20useful!"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
