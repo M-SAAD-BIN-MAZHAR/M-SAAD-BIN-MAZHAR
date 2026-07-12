@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Muhammad%20Saad%20Bin%20Mazhar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Infrastructure&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Muhammad%20Saad%20Bin%20Mazhar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20RAG%20Infrastructure&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/M-SAAD-BIN-MAZHAR">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=800&lines=MIT+Hackathon+Winner+%F0%9F%8F%86;Creator+of+MS-RAGS+%E2%80%94+1%2C000%2B+users+in+5+days;Agentic+Coding+with+Claude+Code+%2B+MCP;RAG+Pipelines+%C2%B7+Multi-Agent+Systems+%C2%B7+Production+AI;Software+Engineering+%40+NUST+%7C+CGPA+3.59" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=800&lines=MIT+Hackathon+Winner+%F0%9F%8F%86;Creator+of+MS-RAGS+%E2%80%94+1%2C000%2B+users+in+5+days;RAG+Pipelines+%C2%B7+Multi-Agent+Systems+%C2%B7+Production+AI;Custom+MCP+Servers+%C2%B7+LLM+Tooling;Software+Engineering+%40+NUST+%7C+CGPA+3.59" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,18 +30,18 @@
 ```python
 class SaadBinMazhar:
     def __init__(self):
-        self.role        = "AI/ML Engineer · Agentic Systems · Full-Stack AI"
+        self.role        = "AI/ML Engineer · Multi-Agent Systems · Full-Stack AI"
         self.education   = "B.E. Software Engineering @ NUST (3.59/4.00, Dean's List)"
         self.experience  = "1.5+ years shipping production AI systems"
         self.building    = "MS-RAGS — open-source production RAG framework"
         self.stack       = ["LangChain", "LangGraph", "CrewAI", "FastAPI",
-                            "Claude Code", "MCP", "Docker", "AWS"]
+                            "MCP", "Docker", "AWS"]
         self.philosophy  = "Ship production code, not notebook prototypes."
 
     def current_focus(self):
         return [
             "Scaling MS-RAGS into a managed RAG-as-a-Service platform",
-            "Agentic coding workflows with Claude Code + custom MCP servers",
+            "Custom MCP servers and LLM tool integrations",
             "Multi-agent orchestration for real-world business automation",
         ]
 ```
@@ -50,29 +50,6 @@ class SaadBinMazhar:
 - 🚀 **Creator of [MS-RAGS](https://pypi.org/project/ms-rags-all-in-one/)** — 15 RAG architectures, 12 LLM providers, 12 vector DBs · **1,000+ users in 5 days, zero marketing**
 - 🤖 **Published**: 2 fine-tuned HuggingFace models · 2 open-source packages (PyPI + npm) · 91+ repos
 - 💼 Building production AI for clients across **healthcare, travel, pharma distribution, and SaaS**
-
----
-
-## 🤖 Agentic Coding with Claude Code
-
-> I don't just *use* AI — I engineer the systems that let AI operate autonomously inside real codebases.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic_Workflows-8957E5?style=for-the-badge" />
-
-</div>
-
-| Practice | How I Apply It |
-|---|---|
-| **Claude Code as a build partner** | Spec-driven, agent-executed development across multi-file repos — planning → implementation → test → refactor loops instead of one-off snippets. |
-| **Custom MCP servers** | Authored **[`github-repo-manager-mcp`](https://www.npmjs.com/package/github-repo-manager-mcp)** (npm) — 12+ GitHub operations, 100% test coverage, Claude Desktop compatible. |
-| **Tool-augmented agents** | Wired Claude/LLM agents to browsers, vector stores, CRMs, and internal APIs via MCP + function calling. |
-| **Agent orchestration** | LangGraph / CrewAI state machines with planner–executor–critic loops, memory, and guardrails. |
-| **Autonomous browser agents** | 6-agent Web Agent API (planning · navigation · extraction · execution · memory · voice) with sub-500ms latency. |
 
 ---
 
@@ -91,6 +68,8 @@ class SaadBinMazhar:
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/LoRA%2FQLoRA-8957E5?style=flat-square" />
 <img src="https://img.shields.io/badge/RAGAS-2EA043?style=flat-square" />
 
@@ -146,8 +125,13 @@ A **permission-first, CLI-driven** framework that generates a **modular standalo
 | **12+ vector databases** | FAISS · Chroma · Pinecone · Qdrant · Weaviate · Milvus · Redis · PGVector · Elasticsearch · OpenSearch · Azure AI Search · MongoDB Atlas |
 | **15+ LLM providers** | OpenAI · Anthropic · Gemini · Mistral · Groq · Cohere · HuggingFace · Ollama · Azure OpenAI · Bedrock · Together · Replicate · any OpenAI-compatible endpoint |
 | **Observability & eval** | RAGAS · DeepEval · LangSmith · Langfuse · Phoenix/OpenInference · OpenTelemetry |
-| **Agentic memory** | Short-term · long-term · semantic · episodic · user-profile |
+| **Memory systems** | Short-term · long-term · semantic · episodic · user-profile |
 | **Traction** | 🔥 **1,000+ users within 5 days** of launch — zero marketing |
+
+### 🔌 github-repo-manager-mcp — Production MCP Server
+> `npm i github-repo-manager-mcp`
+
+Model Context Protocol server that lets AI assistants manage GitHub repositories directly — **12+ operations, 100% test coverage, Claude Desktop compatible.**
 
 ### 🏆 Web Agent API — *MIT Hackathon Winner*
 Browser-level AI SDK with **real MCP integration** and a **6-agent orchestration system** (planning, navigation, extraction, execution, memory, voice) + Chrome Extension for DOM automation. **Sub-500ms latency.**
@@ -158,7 +142,7 @@ Multi-agent platform that auto-generates lab reports, executes MATLAB, exports D
 
 ### 🏢 Multi-Tenant SaaS Business Platform
 `FastAPI · PostgreSQL · React · Docker · AWS · SSE`
-RBAC, real-time SSE inventory sync (<100ms), agentic chatbot (−85% manual entry). **1,000+ daily transactions · 99.8% accuracy · 99.7% uptime.**
+RBAC, real-time SSE inventory sync (<100ms), AI chatbot (−85% manual entry). **1,000+ daily transactions · 99.8% accuracy · 99.7% uptime.**
 
 ### 🩺 Intelligent Healthcare Platform
 `React · FastAPI · TensorFlow · XGBoost · RAG · AWS`
@@ -218,7 +202,7 @@ CNN pneumonia detection (**94.2%**), XGBoost risk assessment (**89.5% AUC**), RA
 
 ## 🤝 Let's Build Something
 
-I'm open to **AI/ML engineering roles**, **agentic system consulting**, and **collaborations on open-source AI infrastructure**.
+I'm open to **AI/ML engineering roles**, **consulting on LLM systems**, and **collaborations on open-source AI infrastructure**.
 
 <div align="center">
 
