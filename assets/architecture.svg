@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="System design: interfaces to APIs, asynchronous events and data, operated with containers and observability."><title>System design: interfaces to APIs, asynchronous events and data, operated with containers and observability.</title><style>text{font-family:Arial,Helvetica,sans-serif}.flow{stroke-dasharray:8 12;animation:flow 4s linear infinite}@keyframes flow{to{stroke-dashoffset:-80}}@media(prefers-reduced-motion:reduce){.flow{animation:none}}</style>
+<rect width="1200" height="220" rx="12" fill="#101010"/><text x="28" y="38" fill="#ffda18" font-size="13" font-weight="700" letter-spacing="2">HOW I THINK ABOUT SYSTEMS</text>
+<path class="flow" d="M260 110H340M530 110H610M800 110H880" stroke="#ffda18" stroke-width="3"/>
+<g fill="#1b1b17" stroke="#575339"><rect x="28" y="65" width="232" height="90" rx="8"/><rect x="340" y="65" width="190" height="90" rx="8"/><rect x="610" y="65" width="190" height="90" rx="8"/><rect x="880" y="65" width="292" height="90" rx="8"/></g>
+<g fill="#ffda18" font-size="19" font-weight="700" text-anchor="middle"><text x="144" y="101">INTERFACES</text><text x="435" y="101">APIs</text><text x="705" y="101">EVENTS</text><text x="1026" y="101">DATA + INTELLIGENCE</text></g>
+<g fill="#d4d4c9" font-size="13" text-anchor="middle"><text x="144" y="130">React · Next.js · Three.js</text><text x="435" y="130">FastAPI · WebSockets</text><text x="705" y="130">Kafka · Redis · Celery</text><text x="1026" y="130">PostgreSQL · RAG · Agents</text></g>
+<text x="600" y="193" text-anchor="middle" fill="#b8b8a9" font-size="14">DOCKER + KUBERNETES / CI/CD / SECURITY / OBSERVABILITY</text>
+</svg>

@@ -1,266 +1,207 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Muhammad Saad Bin Mazhar — AI/ML engineer, systems architect and founder of WorkHive HQ. Intelligent systems, from architecture to production." />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Muhammad%20Saad%20Bin%20Mazhar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=17" width="100%" />
+<p align="center">
+  <a href="https://saad-s-portfolio-kappa.vercel.app/"><img src="./assets/portfolio.svg" width="230" alt="Explore portfolio" /></a>
+  <a href="https://www.linkedin.com/in/m-saad-bin-mazhar"><img src="./assets/linkedin.svg" width="230" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:msaadbinmazhar@gmail.com"><img src="./assets/contact.svg" width="230" alt="Let's build something — email Saad" /></a>
+</p>
 
-<a href="https://github.com/M-SAAD-BIN-MAZHAR">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+Automation+Specialist;MIT+Hackathon+Winner+%F0%9F%8F%86;Creator+of+MS-RAGS+%E2%80%94+1%2C000%2B+users+in+5+days;RAG+Pipelines+%C2%B7+Multi-Agent+Systems+%C2%B7+Production+AI;End-to-End+Delivery%3A+Model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+Deploy" alt="Typing SVG" />
-</a>
+<p align="center"><strong>CHOOSE YOUR NEXT STOP</strong><br />Explore the projects, open the technical details, or jump into my background.</p>
+<p align="center">
+  <a href="#selected-work"><img src="./assets/nav-projects.svg" width="210" alt="Explore projects" /></a>
+  <a href="#system-design"><img src="./assets/nav-systems.svg" width="210" alt="System design" /></a>
+  <a href="#technical-toolkit"><img src="./assets/nav-skills.svg" width="210" alt="Open toolkit" /></a>
+  <a href="#experience"><img src="./assets/nav-experience.svg" width="210" alt="My journey" /></a>
+</p>
 
-<br/>
+## About
 
-<a href="https://www.linkedin.com/in/m-saad-bin-mazhar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://saad-s-portfolio-kappa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://huggingface.co/Saadi55"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-<a href="https://pypi.org/project/ms-rags-all-in-one/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
-<a href="mailto:msaadbinmazhar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+I'm **Saad**, an **AI/ML Engineer** and **Founder & Lead Systems Architect at WorkHive HQ**, based in Rawalpindi, Pakistan. I build AI products from the retrieval pipeline and backend architecture to the interface, deployment, and operational workflows.
 
-<br/><br/>
+My work spans **generative AI, RAG, multi-agent systems, full-stack development, system design, and automation**. I'm pursuing a **B.E. in Software Engineering at NUST (2024–2028)** alongside client work and open-source development.
 
-<img src="https://komarev.com/ghpvc/?username=M-SAAD-BIN-MAZHAR&label=Profile%20Views&color=1F6FEB&style=flat-square" />
-<img src="https://img.shields.io/github/followers/M-SAAD-BIN-MAZHAR?label=Followers&style=flat-square&color=1F6FEB" />
-<img src="https://img.shields.io/badge/Open%20to-Work%20%26%20Freelance-2EA043?style=flat-square" />
+| Building | Publishing | Background |
+| :--- | :--- | :--- |
+| **WorkHive HQ** — a 3D virtual workplace and enterprise ERP | **MS-RAGS**, a RAG framework on PyPI and Docker | **2+ years** of production AI experience |
+| AI workflows and automation for **Opatrip.com** | **github-repo-manager-mcp** on npm; **2 NLP models** on Hugging Face | **MIT Hackathon winner, 2026** · NUST Dean's List |
 
-</div>
+## Selected work
 
----
-
-## 🧠 About Me
-
-**Three disciplines, one delivery pipeline.** I train the model, build the product around it, and automate the workflow it plugs into — so clients get a shipped system, not a proof of concept.
+**Click a project banner to explore it. Expand each card for the engineering details.**
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🤖 AI/ML Engineer
-RAG pipelines, multi-agent systems, LLM fine-tuning (LoRA/QLoRA), NLP & computer vision. Creator of **MS-RAGS**, 2 fine-tuned HF models.
-
+<td width="50%" valign="top">
+<a href="https://workhivehq.com"><img src="./assets/project-workhive.svg" width="100%" alt="01 / WorkHive HQ" /></a>
+<p><strong>Founder &amp; Lead Systems Architect</strong></p>
+<p>A 3D virtual workplace with an enterprise ERP: spatial audio, HR recruitment, attendance, payroll, document security, and billing.</p>
+<p><code>React</code> <code>Three.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>LiveKit</code></p>
+<p><a href="https://workhivehq.com">Explore WorkHive HQ →</a></p>
+<details><summary><strong>Behind the architecture</strong></summary><p>The challenge: connect a shared 3D office to real business operations.</p><p>Tenant isolation in PostgreSQL; REST and WebSocket services; LiveKit spatial audio; encrypted documents; billing and payroll workflows.</p></details>
 </td>
-<td width="33%" valign="top">
-
-### 💻 Full-Stack Developer
-FastAPI · Node.js · React · Next.js · PostgreSQL. Multi-tenant SaaS, real-time SSE, RBAC, JWT auth — deployed on AWS, Railway & Vercel.
-
+<td width="50%" valign="top">
+<a href="https://github.com/M-SAAD-BIN-MAZHAR/ms-rags-all-in-one-"><img src="./assets/project-ms-rags.svg" width="100%" alt="02 / MS-RAGS" /></a>
+<p><strong>Creator &amp; Maintainer · Open source</strong></p>
+<p>A permission-first CLI that generates a standalone RAG codebase, with configurable retrieval, reranking, vector storage, model providers, and observability.</p>
+<p><code>Python</code> <code>RAG</code> <code>Vector databases</code> <code>Docker</code></p>
+<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/ms-rags-all-in-one-">Source →</a> · <a href="https://pypi.org/project/ms-rags-all-in-one/">PyPI →</a> · <a href="https://hub.docker.com/r/saad469/ms-rags-all-in-one">Docker →</a></p>
+<details><summary><strong>Inside the framework</strong></summary><p>The challenge: move from a RAG experiment to an owned, modular codebase.</p><p>Configurable retrieval, reranking, provider selection, vector storage, memory, evaluation, and observability. Published on PyPI and Docker.</p></details>
 </td>
-<td width="33%" valign="top">
-
-### ⚙️ Automation Specialist
-n8n workflows, Celery + Redis pipelines, WhatsApp/Twilio bots, browser automation, CRM integrations. Cutting manual work by 80%+.
-
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/M-SAAD-BIN-MAZHAR/MIT_HACKATHON"><img src="./assets/project-web-agent.svg" width="100%" alt="03 / Web Agent API" /></a>
+<p><strong>MIT Hackathon winner · 2026</strong></p>
+<p>A browser-level AI SDK and Chrome extension with MCP integration. Six agents coordinate planning, navigation, extraction, execution, memory, and voice.</p>
+<p><code>JavaScript</code> <code>Node.js</code> <code>MCP</code> <code>Multi-agent systems</code></p>
+<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/MIT_HACKATHON">Explore the project →</a></p>
+<details><summary><strong>Meet the six agents</strong></summary><p>The challenge: translate intent into coordinated browser actions.</p><p>Planning → navigation → extraction → execution, with memory and voice capabilities. MCP connects the SDK to tools; a Chrome extension supports DOM automation.</p></details>
+</td>
+<td valign="top">
+<a href="https://github.com/M-SAAD-BIN-MAZHAR/Academix.io"><img src="./assets/project-academix.svg" width="100%" alt="04 / Academix.io" /></a>
+<p><strong>Full-stack AI · Academic automation</strong></p>
+<p>A multi-agent platform for generating lab reports, executing MATLAB code, creating diagrams, and exporting DOCX documents.</p>
+<p><code>Next.js</code> <code>FastAPI</code> <code>CrewAI</code> <code>PostgreSQL</code></p>
+<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/Academix.io">Source →</a> · <a href="https://academix-delta-smoky.vercel.app/">Explore the app →</a></p>
+<details><summary><strong>Follow the workflow</strong></summary><p>The challenge: coordinate report generation and code execution in one product.</p><p>Lab inputs → agent coordination → MATLAB execution → generated diagrams and report sections → DOCX export.</p></details>
 </td>
 </tr>
 </table>
 
-```python
-class SaadBinMazhar:
-    def __init__(self):
-        self.roles       = ["AI/ML Engineer", "Full-Stack Developer",
-                            "Automation Specialist"]
-        self.education   = "B.E. Software Engineering @ NUST (3.59/4.00, Dean's List)"
-        self.experience  = "1.5+ years shipping production systems"
-        self.building    = "MS-RAGS — open-source production RAG framework"
-        self.stack       = ["LangChain", "LangGraph", "CrewAI", "FastAPI",
-                            "React", "n8n", "Docker", "AWS"]
-        self.philosophy  = "Ship production code, not notebook prototypes."
+<details>
+<summary><strong>Explore more: developer tools, voice AI, automation &amp; healthcare</strong></summary>
 
-    def current_focus(self):
-        return [
-            "Scaling MS-RAGS into a managed RAG-as-a-Service platform",
-            "Custom MCP servers and LLM tool integrations",
-            "End-to-end business automation for real clients",
-        ]
-```
+| Project | What I built | Technologies |
+| :--- | :--- | :--- |
+| [GitHub Repo Manager MCP](https://github.com/M-SAAD-BIN-MAZHAR/github-repo-manager-mcp) · [npm](https://www.npmjs.com/package/github-repo-manager-mcp) | MCP server connecting AI assistants to GitHub repository operations | TypeScript, Node.js, MCP, GitHub API |
+| [Job Radar](https://github.com/M-SAAD-BIN-MAZHAR/Jobs-Radar) | Seven coordinated workflows for candidate matching, enrichment, CRM integration, and WhatsApp routing | n8n, OpenAI, HubSpot, FastAPI, React |
+| [Production Voice Agent](https://github.com/M-SAAD-BIN-MAZHAR/Production_Voice_Agent) | Streaming conversational agent with vector memory, voice activity detection, and interruption handling | Python, asyncio, FAISS, Silero VAD |
+| [BS Management System](https://bsmanagement.vercel.app/) | Multi-tenant inventory and business management with RBAC and real-time SSE updates | FastAPI, PostgreSQL, SQLAlchemy, React, AWS |
+| [Intelligent Healthcare Platform](https://github.com/M-SAAD-BIN-MAZHAR/Intelligent_HPS) | Pneumonia classification, health-risk prediction, and a retrieval-based medical chatbot | TensorFlow, XGBoost, RAG, FastAPI, React |
+| [Workflow Automation](https://github.com/M-SAAD-BIN-MAZHAR/n8n-WorkFLow-Automate-your-Life-) | Connected workflows for document generation and business processes | n8n, Python, APIs |
 
-- 🏆 **MIT Hackathon Winner** — Web Agent API (6-agent browser SDK with real MCP integration)
-- 🚀 **Creator of [MS-RAGS](https://pypi.org/project/ms-rags-all-in-one/)** — 15 RAG architectures, 12 LLM providers, 12 vector DBs · **1,000+ users in 5 days, zero marketing**
-- 📦 **Published**: 2 fine-tuned HuggingFace models · 2 open-source packages (PyPI + npm) · 91+ repos
-- 💼 Delivering production systems across **healthcare, travel, pharma distribution, and SaaS**
+</details>
 
----
+## System design
 
-## 🛠️ Tech Arsenal
+<img src="./assets/architecture.svg" width="100%" alt="Architecture toolkit: interfaces, APIs, Kafka events, data and AI, with Kubernetes and observability" />
 
-<div align="center">
 
-**AI / ML / LLM**
+**System design is part of how I build products:** defining service boundaries, modeling data, coordinating real-time events, and making deployment and operations part of the design.
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square" />
-<img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LoRA%2FQLoRA-8957E5?style=flat-square" />
-<img src="https://img.shields.io/badge/RAGAS-2EA043?style=flat-square" />
+| Area | My toolkit & practical focus |
+| :--- | :--- |
+| **Application architecture** | Modular backend design, multi-tenant SaaS, REST APIs, database modeling, separation of concerns |
+| **Real-time systems** | WebSockets, SSE, WebRTC, spatial audio, concurrent workflows, shared-resource coordination |
+| **Messaging & asynchronous work** | **Apache Kafka**, event-driven architecture, Redis, Celery, background processing, webhooks |
+| **Cloud & orchestration** | **Kubernetes (K8s)**, Docker, CI/CD, GitHub Actions, AWS EC2, S3, SageMaker |
+| **Security & access** | Tenant isolation, RBAC, JWT, OAuth 2.0, rate limiting, API key management, client-side encryption |
+| **AI system quality** | Retrieval evaluation, reranking, model experimentation, tracing, observability, latency and cost tradeoffs |
 
-**Full-Stack — Backend & Frontend**
+<details>
+<summary><strong>Architecture in practice: WorkHive HQ</strong></summary>
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,nestjs,react,nextjs,ts,js,tailwind,cpp,java&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/SSE-F7DF1E?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
+- **Product surface:** React and Three.js provide a navigable 3D office alongside enterprise workflows.
+- **Backend:** FastAPI exposes modular REST and WebSocket endpoints backed by PostgreSQL tenant isolation.
+- **Coordination:** Desk-claim locking and WebSocket updates coordinate shared workplace resources.
+- **Communication:** LiveKit SFU WebRTC supports spatial proximity audio.
+- **Security:** Client-side AES-256-GCM encryption protects documents.
+- **Operations:** Paddle billing webhooks, corporate trial provisioning, recruitment pipelines, and dual-authorization payroll connect the product to business processes.
 
-**Automation & Integrations**
+[Visit WorkHive HQ](https://workhivehq.com) · [Read more on my portfolio](https://saad-s-portfolio-kappa.vercel.app/)
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
-<img src="https://img.shields.io/badge/Vapi-12A594?style=flat-square" />
-<img src="https://img.shields.io/badge/Webhooks-4A154B?style=flat-square" />
+</details>
 
-**Data & Vector Databases**
+## Technical toolkit
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
-<img src="https://img.shields.io/badge/Weaviate-00C4B4?style=flat-square" />
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
-<img src="https://img.shields.io/badge/PGVector-336791?style=flat-square" />
+Choose a discipline to open its toolkit.
 
-**MLOps, Cloud & DevOps**
+<details>
+<summary><strong>AI & MACHINE LEARNING</strong></summary>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,linux,git&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" />
-<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" />
+| Discipline | Technologies |
+| :--- | :--- |
+| **Generative AI & agents** | RAG, LangChain, LangGraph, CrewAI, AutoGen, MCP, OpenAI API, Claude API, embeddings, prompt engineering, LoRA / QLoRA |
+| **Machine learning** | PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, OpenCV, Hugging Face Transformers, NLP, computer vision |
+| **Data & evaluation** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, feature engineering, RAGAS, DeepEval, LangSmith, Langfuse, OpenTelemetry |
 
-</div>
+</details>
 
----
+<details>
+<summary><strong>APPLICATIONS & DATA</strong></summary>
 
-## 🚀 Flagship Work
+| Discipline | Technologies |
+| :--- | :--- |
+| **Backend & languages** | Python, JavaScript, TypeScript, SQL, C++, Java, FastAPI, Django, Flask, Node.js, Express.js, NestJS |
+| **Frontend & 3D** | React, Next.js, Three.js, React Three Fiber, HTML, CSS |
+| **Databases & retrieval** | PostgreSQL, MySQL, MongoDB, Redis, FAISS, Pinecone, Qdrant, ChromaDB, Weaviate, Milvus, Elasticsearch |
 
-<div align="center">
-<a href="https://github.com/M-SAAD-BIN-MAZHAR/ms-rags-all-in-one-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=ms-rags-all-in-one-&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" />
-</a>
-<a href="https://github.com/M-SAAD-BIN-MAZHAR/github-repo-manager-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-SAAD-BIN-MAZHAR&repo=github-repo-manager-mcp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" />
-</a>
-</div>
+</details>
 
-### 🧩 MS-RAGS (All-in-One) — Production RAG Framework  `AI/ML`
-> `pip install ms-rags-all-in-one` · `docker pull saad469/ms-rags-all-in-one`
+<details>
+<summary><strong>CLOUD, KUBERNETES & AUTOMATION</strong></summary>
 
-A **permission-first, CLI-driven** framework that generates a **modular standalone production codebase** — not a black-box abstraction, not a notebook. Weeks of RAG setup compressed into **~4 minutes**.
+| Discipline | Technologies |
+| :--- | :--- |
+| **Infrastructure & MLOps** | Kubernetes, Docker, Apache Kafka, AWS, Linux, CI/CD, GitHub Actions, MLflow, DagsHub, Railway, Render, Vercel |
+| **Automation & integrations** | n8n, Make, Vapi, HubSpot, WhatsApp API, Hunter.io, Apollo.io, Celery, webhooks |
 
-| | |
-|---|---|
-| **15+ RAG architectures** | Naive · Advanced · Modular · Agentic · Self-RAG · Corrective · Adaptive · GraphRAG · HyDE · Multi-Query · RAG-Fusion · Step-Back · Parent-Child · Contextual Compression |
-| **12+ vector databases** | FAISS · Chroma · Pinecone · Qdrant · Weaviate · Milvus · Redis · PGVector · Elasticsearch · OpenSearch · Azure AI Search · MongoDB Atlas |
-| **15+ LLM providers** | OpenAI · Anthropic · Gemini · Mistral · Groq · Cohere · HuggingFace · Ollama · Azure OpenAI · Bedrock · Together · Replicate · any OpenAI-compatible endpoint |
-| **Observability & eval** | RAGAS · DeepEval · LangSmith · Langfuse · Phoenix/OpenInference · OpenTelemetry |
-| **Memory systems** | Short-term · long-term · semantic · episodic · user-profile |
-| **Traction** | 🔥 **1,000+ users within 5 days** of launch — zero marketing |
+</details>
 
-### 🔌 github-repo-manager-mcp — Production MCP Server  `AI/ML`
-> `npm i github-repo-manager-mcp`
+## Experience
 
-Model Context Protocol server that lets AI assistants manage GitHub repositories directly — **12+ operations, 100% test coverage, Claude Desktop compatible.**
+| Role | Organization | Period |
+| :--- | :--- | :--- |
+| **Founder & Lead Systems Architect** | WorkHive HQ | 2025–Present |
+| **AI Automation Specialist** · Freelance, remote | Opatrip.com | Jul 2026–Present |
+| **Freelance AI/ML Engineer** | Independent clients | Jan 2024–Present |
+| **AI/ML Engineering Intern** | Elevvo Pathways | Aug–Sep 2025 |
+| **AI/ML Engineering Intern** | Innoverse.pk | Aug–Sep 2025 |
 
-### 🏆 Web Agent API — *MIT Hackathon Winner*  `AI/ML` `Automation`
-Browser-level AI SDK with **real MCP integration** and a **6-agent orchestration system** (planning, navigation, extraction, execution, memory, voice) + Chrome Extension for DOM automation. **Sub-500ms latency.**
+<details>
+<summary><strong>More about my experience, education &amp; certifications</strong></summary>
 
-### 🏢 Multi-Tenant SaaS Business Platform  `Full-Stack`
-`FastAPI · PostgreSQL · SQLAlchemy · React · Docker · AWS · SSE`
-Architected a multi-tenant platform with RBAC, real-time SSE inventory sync (<100ms), and an AI chatbot that cut manual data entry by 85%. **1,000+ daily transactions · 99.8% accuracy · 99.7% uptime.**
+**WorkHive HQ:** Founded and architected a 3D virtual workplace and enterprise ERP, bringing together real-time communication, multi-tenant backend services, security, and business operations.
 
-### ⚙️ Procurement Automation System  `Automation`
-`FastAPI · Celery · Redis · PostgreSQL · Twilio WhatsApp`
-End-to-end procurement pipeline: report ingestion → auto PO generation for **112 distributors** → human review portal → invoice matching → alert notifications. Replaced a fully manual workflow.
+**Opatrip.com:** Build and maintain AI-powered operational workflows, connecting tools and business logic to reduce repetitive manual work.
 
-### 📡 Job Radar — Intelligent Job Matching  `Automation`
-`n8n · GPT-4 · Hunter.io · Apollo.io · HubSpot · FastAPI · React`
-**7 orchestrated n8n workflows** processing 96+ candidates daily at **99.5% reliability** · −82% manual screening · −67% API cost · quote-aware WhatsApp command routing.
+**Independent clients:** Built and deployed 10+ RAG pipelines and agentic workflows, published fine-tuned NLP models and developer tools, and delivered streaming voice agents and cloud-hosted APIs.
 
-### 🎓 Academix.io — AI Academic Automation  `Full-Stack` `Automation`
-`Next.js · FastAPI · CrewAI · PostgreSQL · Docker · Railway`
-Multi-agent platform that auto-generates lab reports, executes MATLAB, and exports DOCX. **8–10 hours → 4 minutes.** 2,000+ monthly active users.
+**Internships:** Worked on classification, clustering, predictive modeling, CNN traffic-sign recognition, and a deployed depression-prediction project.
 
-### 🩺 Intelligent Healthcare Platform  `AI/ML` `Full-Stack`
-`React · FastAPI · TensorFlow · XGBoost · RAG · PostgreSQL · AWS`
-CNN pneumonia detection (**94.2%**), XGBoost risk assessment (**89.5% AUC**), RAG medical chatbot with citation-based confidence.
+**Education:** B.E. Software Engineering, National University of Sciences and Technology (NUST), Islamabad · 2024–2028 · **CGPA 3.59/4.00 · Dean's List**.
+
+**Certifications:** Advanced RAG with Vector Databases (IBM/Coursera); ChatGPT Prompt Engineering for Developers (DeepLearning.AI); Introduction to Generative AI (AWS); Data Science & AI Advanced (Udemy).
+
+[Explore certificates and project details on my portfolio](https://saad-s-portfolio-kappa.vercel.app/)
+
+</details>
+
+## Find my work
+
+<p align="center">
+  <a href="https://github.com/M-SAAD-BIN-MAZHAR"><img src="./assets/github-main.svg" width="260" alt="Main GitHub account" /></a>
+  <a href="https://github.com/Saad-i514"><img src="./assets/github-second.svg" width="260" alt="Additional GitHub account Saad-i514" /></a>
+</p>
+
+**I publish across two GitHub accounts.** Explore both for my repositories and project history.
+
+| Main GitHub | Additional GitHub |
+| :--- | :--- |
+| **[M-SAAD-BIN-MAZHAR →](https://github.com/M-SAAD-BIN-MAZHAR)** | **[Saad-i514 →](https://github.com/Saad-i514)** |
+| [Browse repositories](https://github.com/M-SAAD-BIN-MAZHAR?tab=repositories) · [Contributions](https://github.com/M-SAAD-BIN-MAZHAR?tab=overview) | [Browse repositories](https://github.com/Saad-i514?tab=repositories) · [Contributions](https://github.com/Saad-i514?tab=overview) |
+
+**Published work:** [Hugging Face models](https://huggingface.co/Saadi55) · [MS-RAGS on PyPI](https://pypi.org/project/ms-rags-all-in-one/) · [MCP server on npm](https://www.npmjs.com/package/github-repo-manager-mcp) · [Docker image](https://hub.docker.com/r/saad469/ms-rags-all-in-one)
 
 ---
 
-## 📊 GitHub Analytics — Live
+<h3 align="center">Have a system worth building?</h3>
+<p align="center">Open to AI/ML engineering roles, product development, automation consulting, and open-source collaboration.</p>
+<p align="center">
+  <a href="mailto:msaadbinmazhar@gmail.com"><strong>Start a conversation →</strong></a><br />
+  <a href="https://www.linkedin.com/in/m-saad-bin-mazhar">LinkedIn</a> · <a href="https://saad-s-portfolio-kappa.vercel.app/">Portfolio</a> · Rawalpindi, Pakistan
+</p>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-SAAD-BIN-MAZHAR&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-SAAD-BIN-MAZHAR&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=M-SAAD-BIN-MAZHAR&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=8957E5&currStreakLabel=1F6FEB" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-SAAD-BIN-MAZHAR&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=1F6FEB&point=8957E5&area=true&hide_border=true" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=M-SAAD-BIN-MAZHAR&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/M-SAAD-BIN-MAZHAR/M-SAAD-BIN-MAZHAR/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-</div>
-
----
-
-## 🏅 Achievements
-
-- 🏆 **MIT Hackathon Winner (2026)** — Web Agent API with real MCP integration
-- 🚀 **Creator of MS-RAGS** — 1,000+ users in 5 days, PyPI + Docker
-- 📦 **2 open-source packages** published (npm + PyPI) · **2 fine-tuned HF models** (+18% accuracy, −55% size via LoRA)
-- 🎓 **Dean's List** @ NUST · CGPA 3.59/4.00
-- 🏢 **Founder** of a production multi-tenant SaaS platform onboarding enterprise clients
-- ⚙️ Automated workflows serving **112+ distributors** and **2,000+ monthly users**
-- 📚 91+ public repositories across AI/ML, full-stack, and automation
-
-**Certifications:** Advanced RAG with Vector Databases (IBM) · ChatGPT Prompt Engineering for Developers (DeepLearning.AI) · Introduction to Generative AI (AWS) · Data Science & AI Advanced
-
----
-
-## 🤝 Let's Build Something
-
-Open to **AI/ML engineering roles**, **full-stack product development**, **automation consulting**, and **open-source collaboration**.
-
-<div align="center">
-
-<a href="mailto:msaadbinmazhar@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/m-saad-bin-mazhar"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://saad-s-portfolio-kappa.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>"Ship production code, not notebook prototypes."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
-
-</div>
+<p align="center"><a href="#about"><img src="./assets/back-top.svg" width="180" alt="Back to top" /></a></p>
