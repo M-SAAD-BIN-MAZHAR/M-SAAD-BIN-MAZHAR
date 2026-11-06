@@ -20,7 +20,7 @@
 
 I'm **Saad**, an **AI/ML Engineer** and **Founder & Lead Systems Architect at WorkHive HQ**, based in Rawalpindi, Pakistan. I build AI products from the retrieval pipeline and backend architecture to the interface, deployment, and operational workflows.
 
-My work spans **generative AI, RAG, multi-agent systems, full-stack development, system design, and automation**. I'm pursuing a **B.E. in Software Engineering at NUST (2024–2028)** alongside client work and open-source development.
+My work spans **generative AI, RAG, multi-agent systems, full-stack development, system design, and automation**.
 
 | Building | Publishing | Background |
 | :--- | :--- | :--- |
@@ -161,7 +161,7 @@ Choose a discipline to open its toolkit.
 | **AI/ML Engineering Intern** | Innoverse.pk | Aug–Sep 2025 |
 
 <details>
-<summary><strong>More about my experience, education &amp; certifications</strong></summary>
+<summary><strong>More about my experience &amp; certifications</strong></summary>
 
 **WorkHive HQ:** Founded and architected a 3D virtual workplace and enterprise ERP, bringing together real-time communication, multi-tenant backend services, security, and business operations.
 
@@ -170,8 +170,6 @@ Choose a discipline to open its toolkit.
 **Independent clients:** Built and deployed 10+ RAG pipelines and agentic workflows, published fine-tuned NLP models and developer tools, and delivered streaming voice agents and cloud-hosted APIs.
 
 **Internships:** Worked on classification, clustering, predictive modeling, CNN traffic-sign recognition, and a deployed depression-prediction project.
-
-**Education:** B.E. Software Engineering, National University of Sciences and Technology (NUST), Islamabad · 2024–2028 · **CGPA 3.59/4.00 · Dean's List**.
 
 **Certifications:** Advanced RAG with Vector Databases (IBM/Coursera); ChatGPT Prompt Engineering for Developers (DeepLearning.AI); Introduction to Generative AI (AWS); Data Science & AI Advanced (Udemy).
 
