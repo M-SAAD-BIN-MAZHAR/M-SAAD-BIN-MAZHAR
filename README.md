@@ -86,10 +86,12 @@ My work spans **generative AI, RAG, multi-agent systems, full-stack development,
 
 ## System design
 
-<img src="./assets/architecture.svg" width="100%" alt="Architecture toolkit: interfaces, APIs, Kafka events, data and AI, with Kubernetes and observability" />
+<img src="./assets/architecture-experience.svg" width="100%" alt="2+ years engineering production AI systems: 10+ RAG pipelines and agentic workflows, and 204 REST and WebSocket endpoints at WorkHive HQ" />
 
 
-**System design is part of how I build products:** defining service boundaries, modeling data, coordinating real-time events, and making deployment and operations part of the design.
+**2+ years of hands-on production experience across AI, full-stack products, and automation.** I take systems from architecture to deployment: defining service boundaries, modeling tenant data, coordinating real-time workflows, integrating AI, and maintaining the services behind the product.
+
+My work includes **10+ production RAG pipelines and agentic workflows** for clients, and **204 modular REST and WebSocket endpoints at WorkHive HQ**. The engineering decisions behind that work include tenant isolation, shared-resource locking, streaming communication, retrieval evaluation, and automated business processes.
 
 | Area | My toolkit & practical focus |
 | :--- | :--- |

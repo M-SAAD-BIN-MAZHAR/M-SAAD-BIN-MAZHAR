@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610" role="img" aria-labelledby="title desc">
+<title id="title">2+ years engineering production AI systems</title>
+<desc id="desc">10+ RAG pipelines and agentic workflows; 204 REST and WebSocket endpoints at WorkHive HQ. Architecture spans interfaces, secure services, asynchronous workflows, and data and AI, supported by cloud deployment and observability.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif}.flow{stroke-dasharray:7 9;animation:flow 4s linear infinite}@keyframes flow{to{stroke-dashoffset:-64}}@media(prefers-reduced-motion:reduce){.flow{animation:none}}</style>
+<rect x="1" y="1" width="1198" height="608" rx="16" fill="#101010" stroke="#4d4930"/>
+<path d="M25 2H1175" stroke="#ffda18" stroke-width="4"/>
+<text x="32" y="40" fill="#ffda18" font-size="13" font-weight="700" letter-spacing="2">SYSTEM DESIGN / PRODUCTION DELIVERY</text>
+<rect x="32" y="65" width="152" height="128" rx="10" fill="#ffda18"/>
+<text x="108" y="142" fill="#101010" text-anchor="middle" font-size="74" font-weight="900">2+</text>
+<text x="108" y="173" fill="#101010" text-anchor="middle" font-size="14" font-weight="800" letter-spacing="2">YEARS</text>
+<text x="211" y="103" fill="#fafaf0" font-size="34" font-weight="900">ENGINEERING PRODUCTION</text>
+<text x="211" y="144" fill="#ffda18" font-size="34" font-weight="900">AI SYSTEMS.</text>
+<text x="213" y="178" fill="#d4d4c9" font-size="17">From architecture and implementation to deployment and iteration.</text>
+<path d="M32 218H1168" stroke="#3d3b2c"/>
+<text x="32" y="251" fill="#ffda18" font-size="26" font-weight="900">10+</text>
+<text x="102" y="250" fill="#e5e5d8" font-size="15">RAG pipelines &amp; agentic workflows</text>
+<text x="611" y="251" fill="#ffda18" font-size="26" font-weight="900">204</text>
+<text x="684" y="250" fill="#e5e5d8" font-size="15">REST &amp; WebSocket endpoints at WorkHive HQ</text>
+<path class="flow" d="M299 375H324M590 375H615M881 375H906" stroke="#ffda18" stroke-width="3"/>
+<g fill="#1b1b17" stroke="#575339"><rect x="32" y="287" width="267" height="167" rx="10"/><rect x="324" y="287" width="266" height="167" rx="10"/><rect x="615" y="287" width="266" height="167" rx="10"/><rect x="906" y="287" width="262" height="167" rx="10"/></g>
+<g fill="#ffda18" font-size="12" font-weight="700" letter-spacing="1.5"><text x="50" y="315">01 / PRODUCT</text><text x="342" y="315">02 / SERVICES</text><text x="633" y="315">03 / COORDINATION</text><text x="924" y="315">04 / INTELLIGENCE</text></g>
+<g fill="#fafaf0" font-size="19" font-weight="800"><text x="50" y="351">REAL-TIME UX</text><text x="342" y="351">SECURE BACKENDS</text><text x="633" y="351">ASYNC WORKFLOWS</text><text x="924" y="351">DATA + AI</text></g>
+<g fill="#d4d4c9" font-size="14"><text x="50" y="382">3D interfaces · Live updates</text><text x="342" y="382">Tenant isolation · RBAC</text><text x="633" y="382">Events · Background jobs</text><text x="924" y="382">Retrieval · Agent orchestration</text></g>
+<g fill="#ffda18" font-size="13"><text x="50" y="424">React · Next.js · WebRTC</text><text x="342" y="424">FastAPI · REST · WebSockets</text><text x="633" y="424">Kafka · Redis · Celery</text><text x="924" y="424">PostgreSQL · RAG · Agents</text></g>
+<rect x="32" y="478" width="1136" height="52" rx="8" fill="#242316"/>
+<text x="600" y="510" text-anchor="middle" fill="#ffda18" font-size="15" font-weight="700">DOCKER + KUBERNETES / AWS / CI/CD / SECURITY / OBSERVABILITY</text>
+<text x="600" y="572" text-anchor="middle" fill="#d4d4c9" font-size="15">Design for isolation. Coordinate shared state. Evaluate AI quality. Operate and improve.</text>
+</svg>
