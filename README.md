@@ -38,7 +38,7 @@ My work spans **generative AI, RAG, multi-agent systems, full-stack development,
 <p><strong>Founder &amp; Lead Systems Architect</strong></p>
 <p>A 3D virtual workplace with an enterprise ERP: spatial audio, HR recruitment, attendance, payroll, document security, and billing.</p>
 <p><code>React</code> <code>Three.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>LiveKit</code></p>
-<p><a href="https://workhivehq.com">Explore WorkHive HQ →</a></p>
+<p><a href="https://workhivehq.com"><img src="./assets/link-explore-workhive-hq.svg" width="175" alt="Explore WorkHive HQ" /></a></p>
 <details><summary><strong>Behind the architecture</strong></summary><p>The challenge: connect a shared 3D office to real business operations.</p><p>Tenant isolation in PostgreSQL; REST and WebSocket services; LiveKit spatial audio; encrypted documents; billing and payroll workflows.</p></details>
 </td>
 <td width="50%" valign="top">
@@ -46,7 +46,7 @@ My work spans **generative AI, RAG, multi-agent systems, full-stack development,
 <p><strong>Creator &amp; Maintainer · Open source</strong></p>
 <p>A permission-first CLI that generates a standalone RAG codebase, with configurable retrieval, reranking, vector storage, model providers, and observability.</p>
 <p><code>Python</code> <code>RAG</code> <code>Vector databases</code> <code>Docker</code></p>
-<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/ms-rags-all-in-one-">Source →</a> · <a href="https://pypi.org/project/ms-rags-all-in-one/">PyPI →</a> · <a href="https://hub.docker.com/r/saad469/ms-rags-all-in-one">Docker →</a></p>
+<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/ms-rags-all-in-one-"><img src="./assets/link-source.svg" width="86" alt="Source" /></a> <a href="https://pypi.org/project/ms-rags-all-in-one/"><img src="./assets/link-pypi.svg" width="86" alt="PyPI" /></a> <a href="https://hub.docker.com/r/saad469/ms-rags-all-in-one"><img src="./assets/link-docker.svg" width="86" alt="Docker" /></a></p>
 <details><summary><strong>Inside the framework</strong></summary><p>The challenge: move from a RAG experiment to an owned, modular codebase.</p><p>Configurable retrieval, reranking, provider selection, vector storage, memory, evaluation, and observability. Published on PyPI and Docker.</p></details>
 </td>
 </tr>
@@ -56,7 +56,7 @@ My work spans **generative AI, RAG, multi-agent systems, full-stack development,
 <p><strong>MIT Hackathon winner · 2026</strong></p>
 <p>A browser-level AI SDK and Chrome extension with MCP integration. Six agents coordinate planning, navigation, extraction, execution, memory, and voice.</p>
 <p><code>JavaScript</code> <code>Node.js</code> <code>MCP</code> <code>Multi-agent systems</code></p>
-<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/MIT_HACKATHON">Explore the project →</a></p>
+<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/MIT_HACKATHON"><img src="./assets/link-explore-the-project.svg" width="175" alt="Explore the project" /></a></p>
 <details><summary><strong>Meet the six agents</strong></summary><p>The challenge: translate intent into coordinated browser actions.</p><p>Planning → navigation → extraction → execution, with memory and voice capabilities. MCP connects the SDK to tools; a Chrome extension supports DOM automation.</p></details>
 </td>
 <td valign="top">
@@ -64,7 +64,7 @@ My work spans **generative AI, RAG, multi-agent systems, full-stack development,
 <p><strong>Full-stack AI · Academic automation</strong></p>
 <p>A multi-agent platform for generating lab reports, executing MATLAB code, creating diagrams, and exporting DOCX documents.</p>
 <p><code>Next.js</code> <code>FastAPI</code> <code>CrewAI</code> <code>PostgreSQL</code></p>
-<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/Academix.io">Source →</a> · <a href="https://academix-delta-smoky.vercel.app/">Explore the app →</a></p>
+<p><a href="https://github.com/M-SAAD-BIN-MAZHAR/Academix.io"><img src="./assets/link-source.svg" width="86" alt="Source" /></a> <a href="https://academix-delta-smoky.vercel.app/"><img src="./assets/link-explore-the-app.svg" width="147" alt="Explore the app" /></a></p>
 <details><summary><strong>Follow the workflow</strong></summary><p>The challenge: coordinate report generation and code execution in one product.</p><p>Lab inputs → agent coordination → MATLAB execution → generated diagrams and report sections → DOCX export.</p></details>
 </td>
 </tr>
@@ -75,12 +75,12 @@ My work spans **generative AI, RAG, multi-agent systems, full-stack development,
 
 | Project | What I built | Technologies |
 | :--- | :--- | :--- |
-| [GitHub Repo Manager MCP](https://github.com/M-SAAD-BIN-MAZHAR/github-repo-manager-mcp) · [npm](https://www.npmjs.com/package/github-repo-manager-mcp) | MCP server connecting AI assistants to GitHub repository operations | TypeScript, Node.js, MCP, GitHub API |
-| [Job Radar](https://github.com/M-SAAD-BIN-MAZHAR/Jobs-Radar) | Seven coordinated workflows for candidate matching, enrichment, CRM integration, and WhatsApp routing | n8n, OpenAI, HubSpot, FastAPI, React |
-| [Production Voice Agent](https://github.com/M-SAAD-BIN-MAZHAR/Production_Voice_Agent) | Streaming conversational agent with vector memory, voice activity detection, and interruption handling | Python, asyncio, FAISS, Silero VAD |
-| [BS Management System](https://bsmanagement.vercel.app/) | Multi-tenant inventory and business management with RBAC and real-time SSE updates | FastAPI, PostgreSQL, SQLAlchemy, React, AWS |
-| [Intelligent Healthcare Platform](https://github.com/M-SAAD-BIN-MAZHAR/Intelligent_HPS) | Pneumonia classification, health-risk prediction, and a retrieval-based medical chatbot | TensorFlow, XGBoost, RAG, FastAPI, React |
-| [Workflow Automation](https://github.com/M-SAAD-BIN-MAZHAR/n8n-WorkFLow-Automate-your-Life-) | Connected workflows for document generation and business processes | n8n, Python, APIs |
+| <a href="https://github.com/M-SAAD-BIN-MAZHAR/github-repo-manager-mcp"><img src="./assets/link-github-repo-manager-mcp.svg" width="203" alt="GitHub Repo Manager MCP" /></a> <a href="https://www.npmjs.com/package/github-repo-manager-mcp"><img src="./assets/link-npm.svg" width="86" alt="npm" /></a> | MCP server connecting AI assistants to GitHub repository operations | TypeScript, Node.js, MCP, GitHub API |
+| <a href="https://github.com/M-SAAD-BIN-MAZHAR/Jobs-Radar"><img src="./assets/link-job-radar.svg" width="105" alt="Job Radar" /></a> | Seven coordinated workflows for candidate matching, enrichment, CRM integration, and WhatsApp routing | n8n, OpenAI, HubSpot, FastAPI, React |
+| <a href="https://github.com/M-SAAD-BIN-MAZHAR/Production_Voice_Agent"><img src="./assets/link-production-voice-agent.svg" width="196" alt="Production Voice Agent" /></a> | Streaming conversational agent with vector memory, voice activity detection, and interruption handling | Python, asyncio, FAISS, Silero VAD |
+| <a href="https://bsmanagement.vercel.app/"><img src="./assets/link-bs-management-system.svg" width="182" alt="BS Management System" /></a> | Multi-tenant inventory and business management with RBAC and real-time SSE updates | FastAPI, PostgreSQL, SQLAlchemy, React, AWS |
+| <a href="https://github.com/M-SAAD-BIN-MAZHAR/Intelligent_HPS"><img src="./assets/link-healthcare-platform.svg" width="175" alt="Healthcare platform" /></a> | Pneumonia classification, health-risk prediction, and a retrieval-based medical chatbot | TensorFlow, XGBoost, RAG, FastAPI, React |
+| <a href="https://github.com/M-SAAD-BIN-MAZHAR/n8n-WorkFLow-Automate-your-Life-"><img src="./assets/link-workflow-automation.svg" width="175" alt="Workflow Automation" /></a> | Connected workflows for document generation and business processes | n8n, Python, APIs |
 
 </details>
 
@@ -110,7 +110,7 @@ My work spans **generative AI, RAG, multi-agent systems, full-stack development,
 - **Security:** Client-side AES-256-GCM encryption protects documents.
 - **Operations:** Paddle billing webhooks, corporate trial provisioning, recruitment pipelines, and dual-authorization payroll connect the product to business processes.
 
-[Visit WorkHive HQ](https://workhivehq.com) · [Read more on my portfolio](https://saad-s-portfolio-kappa.vercel.app/)
+<a href="https://workhivehq.com"><img src="./assets/link-visit-workhive-hq.svg" width="161" alt="Visit WorkHive HQ" /></a> <a href="https://saad-s-portfolio-kappa.vercel.app/"><img src="./assets/link-explore-portfolio.svg" width="161" alt="Explore portfolio" /></a>
 
 </details>
 
@@ -173,7 +173,7 @@ Choose a discipline to open its toolkit.
 
 **Certifications:** Advanced RAG with Vector Databases (IBM/Coursera); ChatGPT Prompt Engineering for Developers (DeepLearning.AI); Introduction to Generative AI (AWS); Data Science & AI Advanced (Udemy).
 
-[Explore certificates and project details on my portfolio](https://saad-s-portfolio-kappa.vercel.app/)
+<a href="https://saad-s-portfolio-kappa.vercel.app/"><img src="./assets/link-certificates-project-details.svg" width="252" alt="Certificates &amp; project details" /></a>
 
 </details>
 
