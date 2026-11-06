@@ -181,27 +181,39 @@ Choose a discipline to open its toolkit.
 
 ## Find my work
 
+**Two GitHub accounts. One place to explore my work.** Choose a profile, browse its repositories, or view its contributions.
+
 <p align="center">
-  <a href="https://github.com/M-SAAD-BIN-MAZHAR"><img src="./assets/github-main.svg" width="260" alt="Main GitHub account" /></a>
-  <a href="https://github.com/Saad-i514"><img src="./assets/github-second.svg" width="260" alt="Additional GitHub account Saad-i514" /></a>
+  <a href="https://github.com/M-SAAD-BIN-MAZHAR"><img src="./assets/account-main.svg" width="520" alt="M-SAAD-BIN-MAZHAR — open GitHub profile" /></a><br />
+  <a href="https://github.com/M-SAAD-BIN-MAZHAR?tab=repositories"><img src="./assets/browse-repos.svg" width="255" alt="Browse M-SAAD-BIN-MAZHAR repositories" /></a>
+  <a href="https://github.com/M-SAAD-BIN-MAZHAR?tab=overview"><img src="./assets/view-contributions.svg" width="255" alt="View M-SAAD-BIN-MAZHAR contributions" /></a>
 </p>
 
-**I publish across two GitHub accounts.** Explore both for my repositories and project history.
+<p align="center">
+  <a href="https://github.com/Saad-i514"><img src="./assets/account-second.svg" width="520" alt="Saad-i514 — open GitHub profile" /></a><br />
+  <a href="https://github.com/Saad-i514?tab=repositories"><img src="./assets/browse-repos.svg" width="255" alt="Browse Saad-i514 repositories" /></a>
+  <a href="https://github.com/Saad-i514?tab=overview"><img src="./assets/view-contributions.svg" width="255" alt="View Saad-i514 contributions" /></a>
+</p>
 
-| Main GitHub | Additional GitHub |
-| :--- | :--- |
-| **[M-SAAD-BIN-MAZHAR →](https://github.com/M-SAAD-BIN-MAZHAR)** | **[Saad-i514 →](https://github.com/Saad-i514)** |
-| [Browse repositories](https://github.com/M-SAAD-BIN-MAZHAR?tab=repositories) · [Contributions](https://github.com/M-SAAD-BIN-MAZHAR?tab=overview) | [Browse repositories](https://github.com/Saad-i514?tab=repositories) · [Contributions](https://github.com/Saad-i514?tab=overview) |
+### Published work
 
-**Published work:** [Hugging Face models](https://huggingface.co/Saadi55) · [MS-RAGS on PyPI](https://pypi.org/project/ms-rags-all-in-one/) · [MCP server on npm](https://www.npmjs.com/package/github-repo-manager-mcp) · [Docker image](https://hub.docker.com/r/saad469/ms-rags-all-in-one)
+Explore the models, packages, and tools I publish.
+
+<p align="center">
+  <a href="https://huggingface.co/Saadi55"><img src="./assets/published-models.svg" width="390" alt="HUGGING FACE — Fine-tuned NLP models" /></a>
+  <a href="https://pypi.org/project/ms-rags-all-in-one/"><img src="./assets/published-pypi.svg" width="390" alt="MS-RAGS / PYPI — Explore the Python package" /></a>
+  <a href="https://www.npmjs.com/package/github-repo-manager-mcp"><img src="./assets/published-npm.svg" width="390" alt="GITHUB MCP / NPM — Explore the MCP server" /></a>
+  <a href="https://hub.docker.com/r/saad469/ms-rags-all-in-one"><img src="./assets/published-docker.svg" width="390" alt="DOCKER HUB — Explore the container image" /></a>
+</p>
 
 ---
 
-<h3 align="center">Have a system worth building?</h3>
+<p align="center"><img src="./assets/contact-banner.svg" width="100%" alt="Have a system worth building? Let’s design, build and scale it." /></p>
 <p align="center">Open to AI/ML engineering roles, product development, automation consulting, and open-source collaboration.</p>
 <p align="center">
-  <a href="mailto:msaadbinmazhar@gmail.com"><strong>Start a conversation →</strong></a><br />
-  <a href="https://www.linkedin.com/in/m-saad-bin-mazhar">LinkedIn</a> · <a href="https://saad-s-portfolio-kappa.vercel.app/">Portfolio</a> · Rawalpindi, Pakistan
+  <a href="mailto:msaadbinmazhar@gmail.com"><img src="./assets/start-conversation.svg" width="260" alt="Start a conversation by email" /></a><br />
+  <a href="https://www.linkedin.com/in/m-saad-bin-mazhar"><img src="./assets/linkedin.svg" width="230" alt="Connect on LinkedIn" /></a>
+  <a href="https://saad-s-portfolio-kappa.vercel.app/"><img src="./assets/portfolio.svg" width="230" alt="Explore portfolio" /></a>
 </p>
-
-<p align="center"><a href="#about"><img src="./assets/back-top.svg" width="180" alt="Back to top" /></a></p>
+<p align="center">Rawalpindi, Pakistan</p>
+<p align="center"><a href="#about"><img src="./assets/back-top.svg" width="210" alt="Back to overview" /></a></p>
